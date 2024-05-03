@@ -1,0 +1,10 @@
+/* tabla.component.css */
+.background-container {
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/876/107/679/genshin-impact-raiden-shogun-genshin-impact-hd-wallpaper-preview.jpg'); /* Cambia esto por la ruta de tu imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 20px; /* Ajusta el relleno según sea necesario */
+    opacity: 0.7; /* Cambia el valor de opacidad según sea necesario */
+}
